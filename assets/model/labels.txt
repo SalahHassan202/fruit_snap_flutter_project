@@ -1,0 +1,10 @@
+0 Apple
+1 Avocado
+2 Banana
+3 Cherry
+4 Kiwi
+5 Mango
+6 Orange
+7 Pinenapple
+8 Stawberries
+9 Watermelon
